@@ -29,6 +29,7 @@ export default function Test() {
         <li>Improve the videophone</li>
         <li>Prepare aeronautics lectures</li>
         <li>Work on the alcohol-fuelled engine</li>
+        <li>I add this line to test git push both upstream</li>
       </ul>
     </div>
   );
